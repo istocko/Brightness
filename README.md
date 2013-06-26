@@ -11,7 +11,7 @@ It allows you to control the brightness of your monitor to a better extent. For 
 
 ## How do I run it? 
 
-Download the <a href="https://github.com/lordamit/Brightness/archive/master.zip">Latest version</a>. Extract it. In the src folder, just set the permission of the brightness.py file as executable. Double click on it, and it will run. 
+Download the <a href="https://github.com/istocko/Brightness/archive/master.zip">Latest version</a>. Extract it. In the src folder, just set the permission of the brightness.py file as executable. Double click on it, and it will run. 
 
 ## What are the requirements / dependencies / things I need to run it?
 
