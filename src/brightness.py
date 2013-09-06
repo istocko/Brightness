@@ -145,7 +145,7 @@ class BrightnessController(wx.Frame):
             if val < 10:
                 # Fix for values 0-9
                 command_string = "xrandr --output \
-            %s --brightness .0%d" % (self.internal_name, val)
+            %s --brightness .0%d" % (self.external_name, val)
             else:
                 command_string = "xrandr --output %s \
             --brightness .%d" % (self.external_name, val)
